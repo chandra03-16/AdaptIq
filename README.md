@@ -1,7 +1,5 @@
 # AdaptIQ — AI-Driven Adaptive Diagnostic Engine
 
-> A 1-Dimension Adaptive Testing prototype for GRE-style questions, built with FastAPI, MongoDB, IRT, and Google Gemini AI.
-
 ---
 
 ## Table of Contents
